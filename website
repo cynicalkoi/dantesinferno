@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-<audio>"C:\Users\unico\Downloads\Yume Nikki OST_ Barracks Settlement (Extended).mp3"</audio>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="Bliss - The Windows XP Puzzle" property="og:title">
+    <meta content="Bliss is a Windows XP style puzzle, based off of other puzzle sites like Notpron and Zedpuzzle." property="og:description">
+    <meta content="https://blisspuzzle.neocities.org/" property="og:url">
+    <meta content="https://blisspuzzle.neocities.org/Bliss.png" property="og:image">
+    <meta content="#00FF00" data-react-helmet="true" name="theme-color">
+    <title>Bliss - The Windows XP Puzzle</title>
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    <link rel="icon" type="image/x-icon" href="/realfavicon.png">
+  </head>
 </html>
